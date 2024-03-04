@@ -6,5 +6,6 @@ My personal tmux config.
 
 ```
 mkdir ~/.config/
-git clone https://github.com/RemasteredArch/tmux-config.git ~/.config/tmux/
+cd ~/.config/
+git clone https://github.com/RemasteredArch/tmux-config.git tmux/
 ```
