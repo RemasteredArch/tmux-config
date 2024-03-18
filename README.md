@@ -15,5 +15,5 @@ git clone https://github.com/tmux-plugins/tpm
 ```
 If your version of tmux does not autorun `~/.config/tmux/tmux.conf`, run:
 ```
-ln -s tmux/tmux.conf ~/.tmux.conf
+ln -s ~/.config/tmux/tmux.conf ~/.tmux.conf
 ```
