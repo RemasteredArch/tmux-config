@@ -37,7 +37,7 @@ fi
 ```
 
 ## Known bugs
-On tmux 3.0a on Ubuntu 20.04, the status bar renders incorrectly. Instead of the Cattpuccin status bar, it renders the default status bar with the Cattpuccin background color. This bug bothers me, but my limited attempts to fix it have be fruitless, so I have chosen to simply ignore it until I update to Ubuntu 24.04.
+On tmux 3.0a on Ubuntu 20.04, the status bar renders incorrectly. Instead of the Catppuccin status bar, it renders the default status bar with the Cattpuccin background color. This bug bothers me, but my limited attempts to fix it have be fruitless, so I have chosen to simply ignore it until I update to Ubuntu 24.04.
 
 # License
 
